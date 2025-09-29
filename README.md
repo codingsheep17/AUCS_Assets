@@ -21,8 +21,8 @@ Student ID: <b>MMG-F23-0009</b>
 <br>
 
 Reach out to me: +923154988524
-<hr>
 
+<hr>
 
 <h2> I am maintaining Fall-24 Multi Media And Gaming assets </h2><br>
 Name: <b>Muhammad Ilyas Shaikh </b>
@@ -33,6 +33,7 @@ Student ID: <b>MMG-F24-0053</b>
 <br>
 
 Reach out to me: +923190315685
+
 <hr>
 
 <h2> I am maintaining Fall-24 Artificial Intelligence assets </h2><br>
@@ -44,6 +45,7 @@ Student ID: <b>ARI-F24-0090</b>
 <br>
 
 Reach out to me: +923303247991
+
 <hr>
 
 <h2> I am maintaining Fall-25 Artificial Intelligence assets </h2><br>
@@ -55,6 +57,7 @@ Student ID: <b>ARI-F25-1152</b>
 <br>
 
 Reach out to me: +923337588072
+
 <hr>
 
 <h2> I am maintaining Fall-25 Artificial Intelligence assets </h2><br>
@@ -66,4 +69,5 @@ Student ID: <b>ARI-F25-0868</b>
 <br>
 
 Reach out to me: +923198293896
+
 <hr>
