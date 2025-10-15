@@ -3,16 +3,19 @@
 
 ### 1st Method
 #### Fork this repo by clicking of Fork button
-![alt text](src\icons\image.png) 
+<img src="src\icons\image.png">
+
 #### You'll see the Contributing markdown file. Select it
-![alt text](src\icons\image-1.png)
+<img src="src\icons\image-1.png">
+
 #### Click on the edit button ✏️ and paste enter your project details
-![alt text](src\icons\image-2.png)
+<img src="src\icons\image-2.png">
+
 ### 2nd Method
 #### Just simply reach out to author on &nbsp; <a href="https://wa.link/gxsugl"><img src="src/icons/whatsapp.png" height="20"></a> &nbsp; or just open the issue and submit your project details.
 
 # If you like it, do this repo a Star 🌟 It means a lot!
-![alt text](src\icons\image-3.png)
+<img src="src\icons\image-3.png">
 
 # Projects
 
