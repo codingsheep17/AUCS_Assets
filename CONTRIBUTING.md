@@ -43,9 +43,12 @@
         A Web Based system to facilitate tailors customers, orders, measurement, staff and making their life easier! 
       </td>
       <td style="vertical-align: top;">
-        <p><code>HTML</code> <code>CSS</code> <code>JS</code></p>
-        <p><code>JAVA</code> <code>JSP</code> <code>SERVLET</code></p>
-        <p><code>MYSQL</code></p>
+        <p><code>HTML</code> <code>CSS</code> <code>JS</code>
+        <code>JAVA</code> <code>JSP</code> <code>SERVLET</code>
+        <code>MYSQL</code>
+        <code>OOP</code>
+        <code>DSA</code>
+        <code>Database</code></p>
       </td>
       <td rowspan="2">
         <a href="https://github.com/Ahtisham-1214">
@@ -54,10 +57,17 @@
       </td>
     </tr>
     <tr>
-      <td><code>Your Project Name</code></td>
-      <td><code>Project Description</code></td>
-      <td><code>What you used to build</code></td>
-      </tr>
+      <td><a href="https://github.com/Ahtisham-1214/Rock-Paper-Scissor">Rock Paper Scissor</a></td>
+      <td>A computer vision based AI game which plays with computer using hand gestures
+      </td>
+      <td>
+        <code>Python</code>
+        <code>Open CV</code>
+        <code>Computer Vision</code>
+        <code>AI</code>
+        <code>MobileNetV2</code>
+      </td>
+    </tr>
   </tbody>
 </table>
 
