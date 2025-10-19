@@ -13,16 +13,21 @@
 
 ### 2nd Method
 #### Just simply reach out to author on &nbsp; <a href="https://wa.link/gxsugl"><img src="src/icons/whatsapp.png" height="20"></a> &nbsp; or just open the issue and submit your project details.
+## Submit Via GitHub Issues
+#### Click on **Issues** tab
+<img src="src\icons\image-8.png">
+
+#### Click on **New Issue**
+<img src="src\icons\image-6.png">
+
+#### Submitting Format via GitHub Issues
+<img src="src\icons\image-7.png">
+
 
 # If you like it, do this repo a Star 🌟 It means a lot!
 <img src="src\icons\image-3.png">
 
 # Projects
-
-<!-- | Project | Description | Tech Stack |  Author |
-| --- | --- | --- | --- |
-| [Tailor Management System](https://github.com/Ahtisham-1214/TailorManagementWeb) | A Web Based system to facilitate tailors customers, orders, measurement, staff and making their life easier!  | `HTML` `CSS` `JS` `JAVA` `JSP` `SERVLET` `MYSQL` | <a href="https://github.com/Ahtisham-1214"><img src="src/icons/2.png"> |
-| `Your Project Name` | `Project Description`| `What you used to build`| `Project Authors Image, not mandatory`| -->
 
 
 <table>
@@ -72,4 +77,4 @@
 </table>
 
 # Working on
-<img src="src/icons/giphy.gif" alt="Author Image" width="150" />
+<img src="src/icons/giphy.gif" alt="Final year Project" width="150" />
