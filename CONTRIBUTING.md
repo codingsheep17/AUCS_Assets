@@ -73,6 +73,26 @@
         <code>MobileNetV2</code>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Haziq8900/Bank-Management-System">Bank Management System</a></td>
+      <td>An interactive desktop system to manage core banking operations like account handling and financial transactions
+      </td>
+      <td>
+        <code>Java</code>
+        <code>Java Swing</code>
+        <code>OOP</code>
+        <code>MySQL</code>
+        <code>Database</code>
+      </td>
+      <td>
+      <a href="https://github.com/Haziq8900">
+          <img src="src/icons/Haziq8900.jpg" alt="Author Image"/>
+        </a> 
+      <a href="https://github.com/Ahtisham-1214">
+          <img src="src/icons/2.png" alt="Author Image"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
