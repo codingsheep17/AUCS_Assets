@@ -110,6 +110,25 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Shoaib1345/Encryption-And-Description">Encryption and Decryption</a></td>
+      <td>A desktop app to secure text using encryption and decryption. Users can enter plain text to encrypt or encrypted text to decrypt using strong cryptographic algorithms like AES or Fernet. It ensures data privacy with a simple, user-friendly interface for secure communication and message protection
+      </td>
+      <td>
+        <code>Python</code>
+        <code>GUI</code>
+        <code>Tkinter</code>
+        <code>File Handling</code>
+      </td>
+      <td>
+      <a href="https://github.com/Shoaib1345">
+          <img src="src/icons/Shoaib1345.png" alt="Author Image"/>
+        </a> 
+      <a href="https://github.com/Ahtisham-1214">
+          <img src="src/icons/2.png" alt="Author Image"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
